@@ -5,6 +5,9 @@ module.exports = {
     extend: {
     backgroundColor:{
       'custombg':'rgb(140,250,200)',
+    },
+    fontFamily:{
+      'font':['Rubik' ,'sans-serif'],
     }
     },
   },
